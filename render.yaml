@@ -1,0 +1,8 @@
+# render.yaml
+services:
+  - type: web
+    name: digit-recognizer
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python app.py"  # or whatever your start command is
+    pythonVersion: 3.10
