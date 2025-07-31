@@ -25,7 +25,11 @@ This project implements a deep learning model using TensorFlow/Keras to classify
 ## Installation
 
 1. Clone or download this repository
-2. Install the required dependencies:
+
+```bash
+git clone 
+```
+3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
