@@ -29,7 +29,7 @@ This project implements a deep learning model using TensorFlow/Keras to classify
 ```bash
 git clone https://github.com/joyboi-ai/DigitRecognizer.git
 ```
-3. Install the required dependencies:
+2. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
