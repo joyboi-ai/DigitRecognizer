@@ -27,7 +27,7 @@ This project implements a deep learning model using TensorFlow/Keras to classify
 1. Clone or download this repository
 
 ```bash
-git clone 
+git clone https://github.com/joyboi-ai/DigitRecognizer.git
 ```
 3. Install the required dependencies:
 
